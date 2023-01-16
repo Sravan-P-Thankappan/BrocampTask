@@ -1,0 +1,32 @@
+
+.theamColor{
+    color: #10ff8d;
+}
+.bg-theam{
+    background-color: #10ff8d;
+}
+#uncontrolled-tab-example-tab-home{
+    border-radius: 100px;
+}
+#uncontrolled-tab-example-tab-profile{
+    border-radius: 100px;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active{
+    background-color: #10ff8d !important;
+     color: #000 !important;
+}
+.nav-link{
+    color: #fff !important;
+}
+.bg-black{
+    background-color: #000;
+}
+.w-65{
+width: 65%;
+}
+.w-35{
+   width: 35%; 
+}
+.w-95{
+    width: 95%; 
+ }
